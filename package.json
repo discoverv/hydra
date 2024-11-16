@@ -3,7 +3,7 @@
   "version": "3.0.5",
   "description": "Discover Games Launcher",
   "main": "./out/main/index.js",
-  "author": "Cristiana e Yasmin",
+  "author": "discover",
   "repository": {
     "type": "git",
     "url": "https://github.com/discovergames/discover-games-launcher.git"
