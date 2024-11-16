@@ -1,12 +1,12 @@
 {
-  "name": "hydralauncher",
+  "name": "discovergameslauncher",
   "version": "3.0.5",
-  "description": "Hydra",
+  "description": "Discover Games Launcher",
   "main": "./out/main/index.js",
-  "author": "Los Broxas",
+  "author": "Cristiana e Yasmin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hydralauncher/hydra.git"
+    "url": "https://github.com/discovergames/discover-games-launcher.git"
   },
   "type": "module",
   "engines": {
@@ -117,3 +117,4 @@
     "vite-plugin-svgr": "^4.2.0"
   }
 }
+
